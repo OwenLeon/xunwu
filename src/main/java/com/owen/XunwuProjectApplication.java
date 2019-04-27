@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class XunwuProjectApplication {
-	//测试git提交
+	//测试git提交代码
 	public static void main(String[] args) {
 		SpringApplication.run(XunwuProjectApplication.class, args);
 	}
